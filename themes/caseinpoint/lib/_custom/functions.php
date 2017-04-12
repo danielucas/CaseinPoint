@@ -10,7 +10,7 @@
  */
 $project_includes = [
     'hair-ball.php',            //Setup some basic functions we always use
-    'acf.php',                  //ACF Related functions
+    'google.php',                  //ACF Related functions
     'mobiledetect.php',         //PHP Mobile Detection (legacy)
     'imageorientation.php',     //Image Orientation function
     'instagram.php',            //Instagram feed function (non-API)
