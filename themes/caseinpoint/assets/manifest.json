@@ -22,6 +22,6 @@
     }
   },
   "config": {
-    "devUrl": "http://haircut.dev"
+    "devUrl": "http://cp.dev"
   }
 }
