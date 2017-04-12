@@ -18,7 +18,6 @@ $sage_includes = [
     'lib/customizer.php', // Theme customizer
     'lib/custom-tax.php', // Custom Post Types & Taxonomies
 
-    'lib/_woo/functions.php', //woo functions
     'lib/_custom/functions.php', //custom functions
 ];
 
