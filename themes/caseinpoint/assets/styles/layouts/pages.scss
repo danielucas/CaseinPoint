@@ -1,0 +1,10 @@
+.site-page {
+	min-height: 100vh;
+
+	background: {
+		size: cover;
+		color: $white;
+		attachment: fixed;
+		position: center center;
+	}
+}

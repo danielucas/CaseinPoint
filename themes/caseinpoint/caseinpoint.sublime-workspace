@@ -1,0 +1,725 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sidebar",
+				"sidebarWidth"
+			],
+			[
+				"insta",
+				"instagramPost"
+			],
+			[
+				"brand",
+				"brand-primary"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
+				"brad",
+				"brand-primary"
+			],
+			[
+				"get_post_thumbnail",
+				"get_the_post_thumbnail\tWP Function"
+			],
+			[
+				"gi",
+				"grid-gutter-width"
+			],
+			[
+				"event",
+				"event_args"
+			],
+			[
+				"text",
+				"text-top"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"reset_po",
+				"wp_reset_postdata\tWP Function"
+			],
+			[
+				"m-l",
+				"margin-left"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"brand-pri",
+				"brand-primary-dark"
+			],
+			[
+				"get_the_post",
+				"get_the_post_thumbnail\tWP Function"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"grid",
+				"grid-gutter-width"
+			],
+			[
+				"gri",
+				"grid-gutter-width"
+			],
+			[
+				"gray",
+				"gray-light"
+			],
+			[
+				"footer",
+				"footerSize"
+			],
+			[
+				"outer",
+				"outerHeight\t.outerHeight()"
+			],
+			[
+				"elsei",
+				"elseif"
+			],
+			[
+				"sub",
+				"subprojects"
+			],
+			[
+				"medi",
+				"media_slider"
+			],
+			[
+				"cvI",
+				"cvItem"
+			],
+			[
+				"get_templ",
+				"get_template_part"
+			],
+			[
+				"get_he",
+				"get_header"
+			],
+			[
+				"line",
+				"line-through"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "assets/images/_svg/icon-churn.svg",
+			"settings":
+			{
+				"buffer_size": 1791,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "<!-- Generator: Adobe Illustrator 19.2.1, SVG Expo"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: s",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax: php",
+				"Set Syntax: PHP"
+			],
+			[
+				"",
+				"Build: New Build System"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"install package: colorsublime",
+			"install package",
+			"package control: install package",
+			"Package Control: Install Package",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/images",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/images/_svg",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/common"
+	],
+	"file_history":
+	[
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/images/_svg/icon-squiggle.svg",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/images/_svg/logo.svg",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/images/_svg/logo-cheese.svg",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/images/_svg/closer.svg",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/images/_svg/arrow-down.svg",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/common/_custom-fonts.scss",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/lift-off.sh",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/tribe-events/month/content.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/tribe-events/month.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/tribe-events/modules/bar.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/content-calendar.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/tribe-events/month/nav.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/tribe-events/list/content.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/template-events.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/tribe-events/month/loop-grid.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/tribe-events/default-template.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/scripts/functions/_sidebar.js",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/lib/setup.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_nav/academics.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/program-header.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/post-header.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/single-program.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/base.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/page-header.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/lib/_custom/contact.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles/layouts/landing-page-form.scss",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/template-landing.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/single-landing.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/landing-header.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/lib/_custom/landing.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/plugins/advanced-custom-fields-pro/admin/settings-tools.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/index.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/header-landing.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_sidebars/landing.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles/layouts/_sidebar.scss",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/scripts/functions/landing-change-redirect.js",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/scripts/functions/landing-complex-slider.js",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles/layouts/landing-header.scss",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_sidebars/academics.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles/mixins/_justified.scss",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles/layouts/landing-page.scss",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/sidebar.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/program-image.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles/common/_font-classes.scss",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/lib/custom-tax.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/content-program.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/news_feed.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/announcement.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles/common/_coloring.scss",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles/common/_variables-colors.scss",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/template-programs.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/footer-contact-program.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/footer-contact.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/instagram_feeds.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/news.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/locations.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/information_slider.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/i_am_a.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/contact.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/contact.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/faculty.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/introduction.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/person_highlight.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/program_highlight.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/calendar.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/column_box.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/combo_box.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/faculty.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/faculty_block.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/gallery-images.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/gallery.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/gallery_set-images.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/gallery_set.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/giving_options.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/panel_block.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/program_highlight.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/quotes.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/simple_text.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/spotlight.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/table.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/text.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/text_module.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/video_embed.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/lib/_custom/woodbury.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles/layouts/modal-gallery.scss",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/manifest.json",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/content-search.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/search.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles/layouts/post--navigation.scss",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/archive-faculty.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_nav/about.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/nav.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/nav-secondary.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/lib/_custom/archive.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/page-bak--news-events.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/page-image.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles/layouts/post--single.scss",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/scripts/functions/faculty.js",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/page-news-events.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/content.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles/layouts/module--news--home.scss",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/faculty-loop.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles/layouts/_posts.scss",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles/layouts/module--news_feed.scss",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles/layouts/page--news.scss",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/content-single.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles/components/_buttons.scss",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/single-faculty.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles/layouts/faculty.scss",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles/layouts/module--contact.scss",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/lib/_custom/functions.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/lib/_custom/obfuscate-email.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/footer.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/header.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_header/social-links.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles/layouts/sidebar__navigation.scss",
+		"/Users/daniellucas/Desktop/_sidebar.js",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/functions.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_sidebars/page.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/uploads/.htaccess",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles/layouts/_nav--secondary.scss",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/lib/_custom/hair-ball.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/single.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/single-post.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles/common/_fonts.scss",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_sidebars/post.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_sidebars/calendar-academic.php",
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/scripts/functions/__external-links-to-new-tab.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/lib",
+			"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates",
+			"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury",
+			"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles",
+			"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/scripts/functions",
+			"<current file>",
+			"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/lib",
+			"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates",
+			"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury",
+			"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles",
+			"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/",
+			"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/tribe-events",
+			"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles",
+			"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates",
+			"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/",
+			"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/scripts/functions",
+			"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates",
+			"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/",
+			"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/tribe-events",
+			"<current file>,/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/tribe-events",
+			"<current file>",
+			"<current file>,/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets",
+			"<current file>,/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/",
+			"<current file>,/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates",
+			"<current file>,/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury",
+			"<current file>",
+			"/Users/daniel/Work/Liz Glynn/Wordpress/app/themes/glynn",
+			"",
+			"/Users/daniel/Work/Liz Glynn/Wordpress/app/themes/glynn",
+			"<current file>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tribe",
+			"calendar",
+			"tribe",
+			"program__header up-25",
+			"affix",
+			"<",
+			"img",
+			"link_options",
+			"posts_per_page",
+			"background",
+			"50%",
+			".news__img__wrap",
+			"#",
+			"affix-top",
+			"console",
+			"\n",
+			"assets",
+			"get_template_part('page', 'header')",
+			"/wp",
+			"woodbury.dev",
+			".news__item__header",
+			"= [",
+			"= []",
+			"[]",
+			"array = []",
+			"tribe-events-read-more",
+			"-sm",
+			"column",
+			"-sm",
+			".program__image",
+			"hover",
+			"max-wi",
+			"z-",
+			"header__search",
+			"search",
+			"sub-menu",
+			"square",
+			"search",
+			"Default (Home Page)",
+			"colors",
+			"base",
+			"hover",
+			"stuff",
+			"select",
+			"highlight__slider--home",
+			"up",
+			"btn",
+			"tribe_events_before_html",
+			"id=\"tribe-events\"",
+			"tribe-events",
+			"events",
+			"link",
+			"pre",
+			"min",
+			"panel",
+			"vertical",
+			"table",
+			"mobile",
+			"table",
+			"currentColor",
+			"fluid",
+			"school__bg__before",
+			"background",
+			"quotes",
+			"hr",
+			"search",
+			"transparent",
+			"size",
+			"ajax_create_coupon_code",
+			"whoops",
+			"ajax_login_object",
+			"fav",
+			"processing",
+			"proessing",
+			"maison",
+			"$",
+			"background",
+			"border-bott",
+			"coun",
+			"no",
+			"row",
+			"active",
+			"style_",
+			"version",
+			"save",
+			"call",
+			"acces",
+			"start",
+			"strong",
+			"404",
+			"make-sm-column",
+			"$main",
+			"localize",
+			"templates",
+			"content",
+			"find",
+			"Wrapper"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			";",
+			"woodbury.wpengine.com",
+			"news",
+			"loading",
+			"jQuery",
+			"em",
+			"templatesssss"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "assets/images/_svg/icon-churn.svg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1791,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1791,
+								1791
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<!-- Generator: Adobe Illustrator 19.2.1, SVG Expo",
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "caseinpoint.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"setup.php",
+				"app/themes/woodbury/lib/setup.php"
+			],
+			[
+				"setu",
+				"woodbury/lib/setup.php"
+			],
+			[
+				"set",
+				"app/plugins/advanced-custom-fields-pro/admin/settings-tools.php"
+			],
+			[
+				"slick",
+				"bower_components/slick-carousel/slick/slick.js"
+			],
+			[
+				"slick.js",
+				"bower_components/slick-carousel/slick/slick.js"
+			],
+			[
+				"base",
+				"base.php"
+			],
+			[
+				"head",
+				"templates/head.php"
+			],
+			[
+				"setup",
+				"lib/setup.php"
+			],
+			[
+				"",
+				"templates/header-subnav.php"
+			],
+			[
+				"header.s",
+				"assets/styles/layouts/_header.scss"
+			],
+			[
+				"_header",
+				"assets/styles/layouts/_header.scss"
+			],
+			[
+				"entry",
+				"templates/entry-meta.php"
+			],
+			[
+				"index",
+				"index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "vita",
+		"selected_items":
+		[
+			[
+				"vita",
+				"/Volumes/Samson/Client/! Vitamin A/Website/Wordpress/wp-content/themes/vitamin-a/vitamin-a.sublime-project"
+			],
+			[
+				"boor",
+				"/Volumes/Samson/Client/Boor Bridges/Website/Wordpress/app/themes/boorbridges/boorbridges.sublime-project"
+			],
+			[
+				"pomp",
+				"/Volumes/Samson/Client/Pomp&Clout/Wordpress/app/themes/pompandclout/pompandclout.sublime-project"
+			],
+			[
+				"big",
+				"/Volumes/Samson/Client/Big Star Denim/Website/Wordpress/app/themes/bigstar/bigstar.sublime-project"
+			],
+			[
+				"boo",
+				"/Volumes/Samson/Client/Boor Bridges/Website/Wordpress/app/themes/boorbridges/boorbridges.sublime-project"
+			],
+			[
+				"kim",
+				"/Volumes/Samson/Client/Women & Whiskies/Website/Wordpress/app/themes/womenwhiskies/womenwhiskies.sublime-project"
+			],
+			[
+				"oli",
+				"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/olivejune.sublime-project"
+			],
+			[
+				"olive",
+				"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/olivejune.sublime-project"
+			],
+			[
+				"ol",
+				"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/olivejune.sublime-project"
+			],
+			[
+				"oliv",
+				"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/olivejune.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 27.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 413.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 327.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,35 @@
+.banner {
+	position: fixed;
+	top: 20px;
+	left: 0;
+	z-index: $zindex-navbar;
+
+	.brand,
+	.nav-primary {
+		display: inline-block;
+		vertical-align: top;
+	}
+}
+
+.brand {
+	width: 175px;
+	margin-right: $spacer;
+
+	svg {
+		width: 100%;
+		height: auto;
+		
+		path {
+			fill: transparent;
+			transition: fill $transDur/3;
+		}
+
+		path#logo-cheese {
+			fill: $black;
+		}
+	}
+
+	&:hover svg path {
+		fill: $black;
+	}
+}

@@ -2,22 +2,26 @@
 //
 // Colors specific to this project
 
+$brand-light: 		#C0E5DB !default;
+$brand-lighter: 	#CDE9E2 !default;
+
+$cream: 			#FFFFE7 !default;
 
 
 // Colors
 //
 // Grayscale and brand colors for use across Bootstrap.
 
-$black:				#000;
+$black:				#3C3C3C;
 $white:				#fff;
 
-$gray-dark:         #373a3c !default;
+$gray-dark:         #3C3C3C !default;
 $gray:				#55595c !default;
 $gray-light:		#818a91 !default;
 $gray-lighter:		#eceeef !default;
 $gray-lightest:		#f7f7f9 !default;
 
-$brand-primary:		#0275d8 !default;
+$brand-primary:		#A2D8C9 !default;
 $brand-success:		#5cb85c !default;
 $brand-info:		#5bc0de !default;
 $brand-warning:		#f0ad4e !default;
@@ -31,7 +35,7 @@ $brand-inverse:		$gray-dark !default;
 // Settings for the `<body>` element.
 
 $body-bg:    		$white !default;
-$body-color: 		$gray-dark !default;
+$body-color: 		$black !default;
 
 
 // Links
