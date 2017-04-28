@@ -12,10 +12,10 @@ $font-size-root: 14px !default;
 
 $font-size-base: 1rem !default;
 $font-size-lg:   1.25rem !default;
-$font-size-sm:   .75rem !default;
+$font-size-sm:   .85rem !default;
 $font-size-xs:   .5rem !default;
 
-$line-height-base: 1.5 !default;
+$line-height-base: 1.75 !default;
 
 $font-size-h1: 2.75rem !default;
 $font-size-h2: 2.25rem !default;
@@ -37,7 +37,7 @@ $display4-weight: 300 !default;
 $headings-margin-bottom: ($spacer / 2) !default;
 $headings-font-family:   $font-family-serif !default;
 $headings-font-weight:   bold !default;
-$headings-line-height:   inherit !default;
+$headings-line-height:   1 !default;
 $headings-color:         inherit !default;
 
 $lead-font-size:   1.25rem !default;

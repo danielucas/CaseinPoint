@@ -8,3 +8,37 @@
 		position: center center;
 	}
 }
+
+#history.site-page,
+#services.site-page {
+	background-attachment: initial;
+}
+
+
+//Text
+//
+
+.page-main-content {
+	font-size: $font-size-sm;
+}
+
+//Images
+// 
+
+.page-ft-img-wrap {
+	position: relative;
+
+	.page-ft-img-bg {
+		position: absolute;
+		top: 0;
+		left: 0;
+		z-index: 0;
+		width: 98%;
+	}
+
+	.page-ft-img {
+		position: relative;
+		z-index: 1;
+	}
+}
+

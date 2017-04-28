@@ -1,0 +1,38 @@
+.slider {
+	.slider-slide {
+		height: 100vh;
+		width: 100%;
+		background: {
+			attachment: absolute;
+			position: top left;
+			size: contain;
+			repeat: no-repeat;
+		}
+	}
+
+	.slide-header {
+		position: absolute;
+		left: 5rem;
+		bottom: 2rem;
+
+		.slide-header-title {
+			max-width: 250px;
+		}
+
+		hr {
+			border-top: 1px solid $black;
+			width: 80%;
+			display: inline-block;
+		}
+	}
+
+	.slide-header-logo {
+		width: 120%;
+		margin-left: -7%;
+
+		svg {
+			width: 100%;
+			height: auto;
+		}
+	}
+}
