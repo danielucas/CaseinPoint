@@ -6,7 +6,7 @@
 
 		<div class="mt-5 page-footer">
 			<?= get_field('footer_text'); ?>
-			<a href="#next" class="btn btn-simple"><?= get_field('footer_next_button_text'); ?></a>
+			<a href="<?= get_permalink(getIdBySlug('services')); ?>" class="btn btn-simple"><?= get_field('footer_next_button_text'); ?></a>
 		</div>
 	</div>
 

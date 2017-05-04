@@ -1,0 +1,40 @@
+.gm-style-iw {
+	position: relative !important;
+	min-width: 200px;
+	width: 200px !important;
+	left: 0 !important;
+	top: 0 !important;
+	padding: $spacer;
+	background: $cream;
+	
+	> div {
+		position: relative !important;
+		width: 100%;
+	}
+}
+
+
+//Marker Info Window Header
+.marker-header {
+	display: inline-block;
+	width: 100%;
+
+	font: {
+		family: $font-family-serif;
+		weight: bold;
+		size: $font-size-h3;
+	}
+
+	text: {
+		transform: none;
+		align: center;
+	}
+
+}
+
+//Targets the x (close) img link on the info window
+img[src="https://maps.gstatic.com/mapfiles/api-3/images/mapcnt6.png"] {
+	display: none;
+	opacity: 0;
+}
+

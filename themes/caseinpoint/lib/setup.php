@@ -144,8 +144,13 @@ function assets()
 
     wp_enqueue_script('sage/js', Assets\asset_path('scripts/main.js'), ['jquery'], null, true);
 
-    //For AJAX Carting
-    wp_localize_script('sage/js', 'ajaxurl', admin_url('admin-ajax.php'));
+    //For AJAX
+    wp_localize_script('sage/js', 'ajax_objects', array(
+        'ajaxurl'            => admin_url('admin-ajax.php'),
+        'themeurl'           => get_template_directory_uri(),
+    ));
+
+    wp_enqueue_script('sage/js');
 
 }
 add_action('wp_enqueue_scripts', __NAMESPACE__ . '\\assets', 100);

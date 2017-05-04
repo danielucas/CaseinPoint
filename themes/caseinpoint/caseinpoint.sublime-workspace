@@ -120,47 +120,58 @@
 	"buffers":
 	[
 		{
-			"file": "templates/footer.php",
+			"file": "assets/scripts/functions/map.js",
 			"settings":
 			{
-				"buffer_size": 217,
+				"buffer_size": 4948,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "/*"
+			}
+		},
+		{
+			"file": "templates/pages/clients.php",
+			"settings":
+			{
+				"buffer_size": 447,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "assets/styles/layouts/_nav.scss",
+			"file": "templates/map.php",
 			"settings":
 			{
-				"buffer_size": 230,
+				"buffer_size": 66,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Unix",
+				"name": "<div class=\"client-map-wrap\">"
 			}
 		},
 		{
-			"file": "assets/styles/components/links.scss",
+			"file": "assets/styles/layouts/map.scss",
 			"settings":
 			{
-				"buffer_size": 65,
+				"buffer_size": 475,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Unix",
+				"name": "#project-map {"
 			}
 		},
 		{
 			"file": "assets/styles/layouts/pages.scss",
 			"settings":
 			{
-				"buffer_size": 133,
+				"buffer_size": 497,
 				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": ".site-page {"
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "assets/styles/common/_variables/type.scss",
+			"file": "assets/styles/layouts/page-clients.scss",
 			"settings":
 			{
-				"buffer_size": 2143,
+				"buffer_size": 150,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -246,36 +257,52 @@
 	[
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/scripts",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/scripts/functions",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles",
-		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/common",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/common/_variables",
-		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/components",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/layouts",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/lib",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/lib/_custom",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/templates",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/templates/pages"
 	],
 	"file_history":
 	[
-		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/templates/content-page.php",
-		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/templates/pages/contact.php",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/base.php",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/templates/pages/clients.php",
-		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/templates/pages/services.php",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/scripts/functions/next-button.js",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/scripts/functions/site-navigation.js",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/templates/pages/mission.php",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/templates/pages/home.php",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/templates/pages/history.php",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/templates/pages/services.php",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/lib/setup.php",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/layouts/page-clients.scss",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/layouts/page-home.scss",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/images/_svg/logo-background.svg",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/layouts/pages.scss",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/layouts/page-services.scss",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/components/_buttons.scss",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/templates/footer.php",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/templates/pages/contact.php",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/common/_variables/type.scss",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/common/_variables/spacing.scss",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/components/typography.scss",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/components/__body.scss",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/common/_variables/colors.scss",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/layouts/_footer.scss",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/front-page.php",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/components/links.scss",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/layouts/_nav.scss",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/templates/content-page.php",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/page.php",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/index.php",
-		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/common/_variables/type.scss",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/layouts/_header.scss",
-		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/layouts/_nav.scss",
-		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/templates/pages/mission.php",
-		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/components/links.scss",
-		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/base.php",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/templates/header.php",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/components/grid.scss",
-		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/common/_variables/spacing.scss",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/common/_variables/options.scss",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/common/_variables/grid.scss",
-		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/common/_variables/colors.scss",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/manifest.json",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/scripts/functions/ajax-loginregister.js",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/images/_svg/icon-churn.svg",
@@ -369,21 +396,7 @@
 		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/search.php",
 		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles/layouts/post--navigation.scss",
 		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/archive-faculty.php",
-		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_nav/about.php",
-		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/nav.php",
-		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/nav-secondary.php",
-		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/lib/_custom/archive.php",
-		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/page-bak--news-events.php",
-		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/page-image.php",
-		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles/layouts/post--single.scss",
-		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/scripts/functions/faculty.js",
-		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/page-news-events.php",
-		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/content.php",
-		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles/layouts/module--news--home.scss",
-		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/faculty-loop.php",
-		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles/layouts/_posts.scss",
-		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles/layouts/module--news_feed.scss",
-		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/assets/styles/layouts/page--news.scss"
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_nav/about.php"
 	],
 	"find":
 	{
@@ -432,6 +445,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"line",
 			"underline",
 			"transDur",
 			"underline",
@@ -556,28 +570,93 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "templates/footer.php",
+					"file": "assets/scripts/functions/map.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 217,
+						"buffer_size": 4948,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								217,
-								217
+								1083,
+								1083
 							]
 						],
 						"settings":
 						{
+							"auto_name": "/*",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "templates/pages/clients.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								52
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "templates/map.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 66,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								66
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<div class=\"client-map-wrap\">",
 							"syntax": "Packages/PHP/PHP.sublime-syntax"
 						},
 						"translation.x": 0.0,
@@ -588,20 +667,49 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "assets/styles/layouts/_nav.scss",
+					"buffer": 3,
+					"file": "assets/styles/layouts/map.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 230,
+						"buffer_size": 475,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								230,
-								230
+								115,
+								115
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#project-map {",
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "assets/styles/layouts/pages.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 497,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12,
+								12
 							]
 						],
 						"settings":
@@ -613,87 +721,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "assets/styles/components/links.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 65,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								33,
-								33
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 1,
-			"sheets":
-			[
-				{
-					"buffer": 3,
-					"file": "assets/styles/layouts/pages.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 133,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								133,
-								133
-							]
-						],
-						"settings":
-						{
-							"auto_name": ".site-page {",
-							"syntax": "Packages/SCSS/SCSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "assets/styles/common/_variables/type.scss",
+					"buffer": 5,
+					"file": "assets/styles/layouts/page-clients.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2143,
+						"buffer_size": 150,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1555,
-								1555
+								145,
+								145
 							]
 						],
 						"settings":
@@ -704,7 +749,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
@@ -766,6 +811,10 @@
 		"selected_items":
 		[
 			[
+				"setup",
+				"lib/setup.php"
+			],
+			[
 				"setup.php",
 				"app/themes/woodbury/lib/setup.php"
 			],
@@ -794,10 +843,6 @@
 				"templates/head.php"
 			],
 			[
-				"setup",
-				"lib/setup.php"
-			],
-			[
 				"",
 				"templates/header-subnav.php"
 			],
@@ -823,9 +868,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "boor",
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"pomp",
+				"/Volumes/Samson/Client/Pomp&Clout/Wordpress/app/themes/pompandclout/pompandclout.sublime-project"
+			],
 			[
 				"boor",
 				"/Volumes/Samson/Client/Boor Bridges/Website/Wordpress/app/themes/boorbridges/boorbridges.sublime-project"
@@ -833,10 +882,6 @@
 			[
 				"vita",
 				"/Volumes/Samson/Client/! Vitamin A/Website/Wordpress/wp-content/themes/vitamin-a/vitamin-a.sublime-project"
-			],
-			[
-				"pomp",
-				"/Volumes/Samson/Client/Pomp&Clout/Wordpress/app/themes/pompandclout/pompandclout.sublime-project"
 			],
 			[
 				"big",

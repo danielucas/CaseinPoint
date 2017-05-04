@@ -18,10 +18,17 @@ use Roots\Sage\Wrapper;
       do_action('get_header');
       get_template_part('templates/header');
 
-      get_template_part('front-page');
+      if(is_404()):
+        get_template_part('404');
+     
+      else:
+        get_template_part('front-page');
+        
+        do_action('get_footer');
+        get_template_part('templates/footer');
+        get_template_part('templates/map');
 
-      do_action('get_footer');
-      get_template_part('templates/footer');
+      endif;  
       wp_footer();
     ?>
   </body>

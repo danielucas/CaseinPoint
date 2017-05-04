@@ -10,13 +10,14 @@
  */
 $project_includes = [
     'hair-ball.php',            //Setup some basic functions we always use
-    'google.php',                  //ACF Related functions
     'mobiledetect.php',         //PHP Mobile Detection (legacy)
     'imageorientation.php',     //Image Orientation function
     'instagram.php',            //Instagram feed function (non-API)
     'getrandomstring.php',      //Get a random string
     'comments.php',             //Obliterate Comments
 
+    'acf.php',                  //add ACF-specific shit
+    'google-map.php',           //ACF Related functions    
 ];
 
 foreach ($project_includes as $file) {
