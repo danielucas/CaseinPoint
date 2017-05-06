@@ -9,7 +9,7 @@
 	</div>
 
 	<div class="col-12 col-md-4 offset-md-1 form-contact-wrap">
-		FORM
+		<?= do_shortcode( '[gravityform id=1 title=false description=false ajax=true tabindex=49]', false ); ?>
 	</div>
 
 </div>

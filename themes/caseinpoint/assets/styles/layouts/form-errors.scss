@@ -1,0 +1,18 @@
+#gform_1 {
+	
+	.validation_error {
+		font-size: $font-size-sm;
+		margin-bottom: $spacer * 2;
+		color: red;
+	}
+
+	.validation_message {
+		display: none;
+	}
+
+	.gfield_error {
+		input {
+			border-bottom: 1px solid red !important;
+		}
+	}
+}

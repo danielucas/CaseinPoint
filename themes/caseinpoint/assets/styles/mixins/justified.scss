@@ -1,0 +1,25 @@
+// JUSTIFY The menu
+@mixin justified-menu() {
+	position: relative;
+	text-align: justify;
+	
+	&:after {
+		position: relative;
+		display: inline-block;
+		width: 100%;
+		height: 0;
+		line-height: 0;
+		content: '';	
+	}
+	
+	& > * {
+		display: inline-block;
+	}
+
+}
+
+.justified-menu {
+	
+	@include justified-menu();
+
+}

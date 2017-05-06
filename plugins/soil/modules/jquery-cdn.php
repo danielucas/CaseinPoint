@@ -18,7 +18,7 @@ function register_jquery() {
     'https://code.jquery.com/jquery-' . $jquery_version . '.min.js',
     [],
     null,
-    true
+    false
   );
 
   add_filter('script_loader_src', __NAMESPACE__ . '\\jquery_local_fallback', 10, 2);

@@ -1,0 +1,65 @@
+.gform_fields {
+	@extend .list-unstyled;
+	@include justified-menu;
+
+	label {
+		display: none;
+	}
+
+	
+	#field_1_1 {
+		width: 100%;
+
+		span {
+			width: 48%;
+		}
+		input {
+			width: 100%;
+		}
+		.ginput_complex {
+			@include justified-menu;
+		}
+	}
+
+	#field_1_2,
+	#field_1_3 {
+		display: inline-block;
+		width: 50%;
+		margin-bottom: $spacer*1.75;
+
+		input {
+			width: 96%;
+		}
+	}
+
+	#field_1_3 {
+		@include media(">md") {
+			text-align: right;
+		}
+	}
+
+	#field_1_4 {
+		width: 100%;
+
+		textarea {
+			width: 100%;
+		}
+	}
+
+	.gform_validation_container {
+		display: none;
+	}
+	
+}
+
+	.gform_footer {
+		transform: translateY(-100%);
+		margin-top: -$spacer*3;
+		text-align: right;
+		padding-right: $spacer*2;
+		pointer-events: none;
+
+		> * {
+			pointer-events: all;
+		}
+	}
