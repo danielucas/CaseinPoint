@@ -7,7 +7,7 @@ function capitalizeFirstLetter(string) {
 }
 
 
-$.address.state('/wp');
+$.address.state('/');
 $(triggers).address();
 
 $.address.change(function(event) {

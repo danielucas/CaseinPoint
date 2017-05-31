@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"ls",
+				"letter-spacing"
+			],
+			[
 				"sidebar",
 				"sidebarWidth"
 			],
@@ -120,29 +124,21 @@
 	"buffers":
 	[
 		{
-			"file": "assets/styles/layouts/map-infowindows.scss",
+			"file": "assets/styles/common/_custom-fonts.scss",
 			"settings":
 			{
-				"buffer_size": 613,
+				"buffer_size": 966,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/styles/layouts/form-errors.scss",
+			"settings":
+			{
+				"buffer_size": 233,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
-				"name": ".gm-style-iw {"
-			}
-		},
-		{
-			"file": "templates/pages/history.php",
-			"settings":
-			{
-				"buffer_size": 745,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "front-page.php",
-			"settings":
-			{
-				"buffer_size": 495,
-				"line_ending": "Unix"
+				"name": "#gform_1 {"
 			}
 		}
 	],
@@ -225,8 +221,7 @@
 	"expanded_folders":
 	[
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint",
-		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/images",
-		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/images/markers",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/scripts",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/scripts/functions",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles",
@@ -234,22 +229,30 @@
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/common/_variables",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/components",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/layouts",
-		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/lang",
-		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/lib/_custom",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/mixins",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/lib",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/templates",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/templates/pages"
 	],
 	"file_history":
 	[
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/layouts/form-contact.scss",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/mixins/justified.scss",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/components/_forms.scss",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/templates/pages/contact.php",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/lib/setup.php",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/scripts/functions/_variables.js",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/scripts/functions/variables.js",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/scripts/functions/map.js",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/scripts/main.js",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/layouts/map-infowindows.scss",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/front-page.php",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/404.php",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/templates/pages/clients.php",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/base.php",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/scripts/functions/site-navigation.js",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/common/_variables/colors.scss",
-		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/scripts/functions/map.js",
-		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/front-page.php",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/layouts/page-clients.scss",
-		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/lib/setup.php",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/templates/map.php",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/images/markers/marker.svg",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/layouts/pages.scss",
@@ -267,7 +270,6 @@
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/layouts/page-services.scss",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/components/_buttons.scss",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/templates/footer.php",
-		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/templates/pages/contact.php",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/common/_variables/type.scss",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/common/_variables/spacing.scss",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/components/typography.scss",
@@ -361,14 +363,7 @@
 		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/giving_options.php",
 		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/panel_block.php",
 		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/program_highlight.php",
-		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/quotes.php",
-		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/simple_text.php",
-		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/spotlight.php",
-		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/table.php",
-		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/text.php",
-		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/text_module.php",
-		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/video_embed.php",
-		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/lib/_custom/woodbury.php"
+		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/templates/_modules/content/quotes.php"
 	],
 	"find":
 	{
@@ -419,6 +414,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"soil",
 			"hidden",
 			"line",
 			"underline",
@@ -550,60 +546,31 @@
 			[
 				{
 					"buffer": 0,
-					"file": "assets/styles/layouts/map-infowindows.scss",
+					"file": "assets/styles/common/_custom-fonts.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 613,
+						"buffer_size": 966,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								399,
-								399
+								567,
+								567
 							]
 						],
 						"settings":
 						{
-							"auto_name": ".gm-style-iw {",
-							"syntax": "Packages/SCSS/SCSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "templates/pages/history.php",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 745,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								435,
-								738
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -613,25 +580,27 @@
 			"sheets":
 			[
 				{
-					"buffer": 2,
-					"file": "front-page.php",
+					"buffer": 1,
+					"file": "assets/styles/layouts/form-errors.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 495,
+						"buffer_size": 233,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								25,
-								241
+								105,
+								105
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
+							"auto_name": "#gform_1 {",
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -699,12 +668,12 @@
 		"selected_items":
 		[
 			[
-				"setup",
+				"setup.php",
 				"lib/setup.php"
 			],
 			[
-				"setup.php",
-				"app/themes/woodbury/lib/setup.php"
+				"setup",
+				"lib/setup.php"
 			],
 			[
 				"setu",
@@ -756,9 +725,17 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "",
+		"last_filter": "ol",
 		"selected_items":
 		[
+			[
+				"ol",
+				"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/olivejune.sublime-project"
+			],
+			[
+				"olive",
+				"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/olivejune.sublime-project"
+			],
 			[
 				"pomp",
 				"/Volumes/Samson/Client/Pomp&Clout/Wordpress/app/themes/pompandclout/pompandclout.sublime-project"
@@ -785,14 +762,6 @@
 			],
 			[
 				"oli",
-				"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/olivejune.sublime-project"
-			],
-			[
-				"olive",
-				"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/olivejune.sublime-project"
-			],
-			[
-				"ol",
 				"/Volumes/Samson/Client/Olive & June/Website/Wordpress/app/themes/olivejune/olivejune.sublime-project"
 			],
 			[
