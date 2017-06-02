@@ -1,6 +1,11 @@
 #services {
-
-	.page-main-content {
-		columns: 2;
+	
+	@include media(">md") {
+		.page-main-content > div {
+			display: inline-block;
+			width: 50%;
+			vertical-align: top;
+			padding-right: $spacer;
+		}
 	}
 }

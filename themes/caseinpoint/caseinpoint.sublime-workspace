@@ -124,10 +124,11 @@
 	"buffers":
 	[
 		{
-			"file": "assets/styles/common/_custom-fonts.scss",
+			"file": "assets/scripts/functions/site-navigation.js",
 			"settings":
 			{
-				"buffer_size": 966,
+				"buffer_size": 707,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
@@ -139,6 +140,15 @@
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
 				"name": "#gform_1 {"
+			}
+		},
+		{
+			"file": "assets/styles/layouts/page-home.scss",
+			"settings":
+			{
+				"buffer_size": 490,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -225,9 +235,7 @@
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/scripts",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/scripts/functions",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles",
-		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/common",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/common/_variables",
-		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/components",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/layouts",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/mixins",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/lib",
@@ -236,6 +244,8 @@
 	],
 	"file_history":
 	[
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/templates/pages/home.php",
+		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/common/_custom-fonts.scss",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/layouts/form-contact.scss",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/mixins/justified.scss",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/components/_forms.scss",
@@ -262,7 +272,6 @@
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/lib/_custom/functions.php",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/scripts/functions/next-button.js",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/templates/pages/mission.php",
-		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/templates/pages/home.php",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/templates/pages/history.php",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/templates/pages/services.php",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/layouts/page-home.scss",
@@ -292,7 +301,6 @@
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/images/_svg/logo.svg",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/images/_svg/closer.svg",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/images/_svg/arrow-down.svg",
-		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/assets/styles/common/_custom-fonts.scss",
 		"/Volumes/Samson/Client/CaseIn Point/Website/Wordpress/app/themes/caseinpoint/lift-off.sh",
 		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/tribe-events/month/content.php",
 		"/Volumes/Samson/Client/Woodbury/Website/Website/app/themes/woodbury/tribe-events/month.php",
@@ -546,24 +554,24 @@
 			[
 				{
 					"buffer": 0,
-					"file": "assets/styles/common/_custom-fonts.scss",
+					"file": "assets/scripts/functions/site-navigation.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 966,
+						"buffer_size": 707,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								567,
-								567
+								707,
+								707
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
@@ -576,7 +584,7 @@
 			]
 		},
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -592,13 +600,42 @@
 						"selection":
 						[
 							[
-								105,
-								105
+								233,
+								233
 							]
 						],
 						"settings":
 						{
 							"auto_name": "#gform_1 {",
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/styles/layouts/page-home.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								413,
+								413
+							]
+						],
+						"settings":
+						{
 							"syntax": "Packages/SCSS/SCSS.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},

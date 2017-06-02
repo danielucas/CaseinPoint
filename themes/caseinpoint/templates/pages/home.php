@@ -12,7 +12,6 @@
 					<a href="<?= get_permalink(getIdBySlug('mission')); ?>" class="btn btn-simple">start learning</a>
 				</div>
 			</li>
-			<pre><?php print_r($slide); ?></pre>
 		<?php endforeach; ?>
 		</ul>
 	<?php endif; ?>

@@ -19,7 +19,8 @@ var runSequence  = require('run-sequence');
 var sass         = require('gulp-sass');
 var sourcemaps   = require('gulp-sourcemaps');
 var uglify       = require('gulp-uglify');
-var sassGlob	 = require('gulp-sass-glob');
+var sassGlob     = require('gulp-sass-glob');
+var plumber      = require('gulp-plumber');
 
 // See https://github.com/austinpray/asset-builder
 var manifest = require('asset-builder')('./assets/manifest.json');
@@ -92,11 +93,13 @@ var cssTasks = function(filename) {
         outputStyle: 'nested', // libsass doesn't support expanded yet
         precision: 10,
         includePaths: [
-        	'.',
-        	'./node_modules/compass-mixins/lib' // Add this bit just here =D
+          '.',
+          './node_modules/compass-mixins/lib' // Add this bit just here =D
         ],
-        errLogToConsole: !enabled.failStyleTask
-      }));
+      }).on('error', function (err) {
+            console.log(err.toString());
+            this.emit('end');
+        }));
     })
     .pipe(concat, filename)
     .pipe(autoprefixer, {
@@ -163,6 +166,13 @@ var writeToManifest = function(directory) {
 
 // ## Gulp tasks
 // Run `gulp -T` for a task summary
+//
+
+var onError = function (err) {
+  console.log(err.toString());
+   this.emit('end');
+};
+
 
 // ### Styles
 // `gulp styles` - Compiles, combines, and optimizes Bower CSS and project CSS.
@@ -172,13 +182,9 @@ gulp.task('styles', ['wiredep'], function() {
   var merged = merge();
   manifest.forEachDependency('css', function(dep) {
     var cssTasksInstance = cssTasks(dep.name);
-    if (!enabled.failStyleTask) {
-      cssTasksInstance.on('error', function(err) {
-        console.error(err.message);
-        this.emit('end');
-      });
-    }
+
     merged.add(gulp.src(dep.globs, {base: 'styles'})
+      .pipe(plumber({ errorHandler: onError }))
       .pipe(cssTasksInstance));
   });
   return merged
@@ -193,6 +199,7 @@ gulp.task('scripts', ['jshint'], function() {
   manifest.forEachDependency('js', function(dep) {
     merged.add(
       gulp.src(dep.globs, {base: 'scripts'})
+        .pipe(plumber({ errorHandler: onError }))
         .pipe(jsTasks(dep.name))
     );
   });

@@ -8,7 +8,7 @@ html {
 
 
 	@include media-breakpoint-down(sm) {
-		font-size: $font-size-root - 2;
+		font-size: $font-size-root - 0.15;
 
 	}
 

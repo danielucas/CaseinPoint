@@ -14,19 +14,26 @@
 .brand {
 	width: 175px;
 	margin-right: $spacer;
+	position: relative;
+	z-index: 2;
 
 	svg {
 		width: 100%;
 		height: auto;
-		
-		path {
-			fill: transparent;
-			transition: fill $transDur/3;
-		}
 
-		path#logo-cheese {
-			fill: $black;
+		@include media(">md") {
+		
+			path {
+				fill: transparent;
+				transition: fill $transDur/3;
+			}
+
+			path#logo-cheese {
+				fill: $black;
+			}
+
 		}
+		
 	}
 
 	&:hover svg path {

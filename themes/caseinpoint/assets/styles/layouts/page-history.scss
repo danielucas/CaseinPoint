@@ -1,0 +1,8 @@
+#history {
+
+	.page-headline.ml--5 {
+		@include media("<md") {
+			margin-left: 0 !important;
+		}
+	}
+}

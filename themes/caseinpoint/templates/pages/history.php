@@ -13,8 +13,8 @@
 
 	<div class="col-12 col-md-6 mt-5 page-ft-img-wrap">
 		<?php $secondImage = get_field('featured_image_background'); ?>
-		<img src="<?= $secondImage['url']; ?>" alt="" class="img-fluid mt-5 ml-5 page-ft-img-bg">
-		<?= the_post_thumbnail('large', array('class'=>'img-fluid ml-3 page-ft-img')); ?>
+		<img src="<?= $secondImage['url']; ?>" alt="" class="img-fluid mt-5 ml-md-4 page-ft-img-bg">
+		<?= the_post_thumbnail('large', array('class'=>'img-fluid ml-md-3 page-ft-img')); ?>
 	</div>
 
 </div>

@@ -36,3 +36,34 @@
 		}
 	}
 }
+
+
+@include media("<lg") {
+
+	.slider {
+		height: 100%;
+
+		.slider-slide {
+			position: relative;
+			background-position: center 12vh;
+			background-size: 200% auto;
+		}
+
+		.slide-header {
+			top: 50vh;
+
+
+			.slide-header-logo {
+				width: 150%;
+				margin-left: -7rem;
+
+				svg {
+					width: 100%;
+					height: auto;
+				}
+			}
+
+		}
+	}
+
+}
