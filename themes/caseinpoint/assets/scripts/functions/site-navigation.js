@@ -7,7 +7,7 @@ function capitalizeFirstLetter(string) {
 }
 
 
-$.address.state('/');
+$.address.state(document.location.origin);
 $(triggers).address();
 
 $.address.change(function(event) {
