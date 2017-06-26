@@ -30,6 +30,14 @@
 		align: center;
 	}
 
+	a {
+		color: $black;
+
+		&:hover {
+			color: $brand-primary;
+		}
+	}
+
 }
 
 //Targets the x (close) img link on the info window

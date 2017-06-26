@@ -7,7 +7,7 @@
 			
 		<p>
 		<?php if($locations): foreach($locations as $location): ?>
-			<?= $location['location_title']; ?><br>
+			<?= ($location['location_link'] ? '<a href="'.$location['location_link'].'">'.$location['location_title'].'</a>' : $location['location_title']); ?><br>
 		<?php endforeach; endif; ?>
 		</p>
 	</div>
@@ -23,7 +23,9 @@
 		<div class="hidden-xs-up map-markers">
 			<?php foreach($locations as $location): ?>
 	            <div class="marker" data-lat="<?= $location['location']['lat']; ?>" data-lng="<?= $location['location']['lng']; ?>" data-icon="<?= ($location['location_hidden'] ? 'marker-special' : 'marker'); ?>">
-	                <header class="marker-header"><?= $location['location_title']; ?></header>
+	                <header class="marker-header">
+						<?= ($location['location_link'] ? '<a href="'.$location['location_link'].'">'.$location['location_title'].'</a>' : $location['location_title']); ?>
+	                </header>
 	            </div>
 			<?php endforeach; ?>
 		</div>

@@ -64,7 +64,7 @@ function new_map($el, $markers) {
 
     // vars
     var args = {
-        zoom                : 3,
+        zoom                : 2,
         center              : new google.maps.LatLng(3.7609, -42.4350), //LatLng for the Castro in San Francisco
 
         mapTypeId           : google.maps.MapTypeId.ROADMAP,
@@ -140,8 +140,8 @@ function add_marker( $marker, map, index ) {
     if( $marker.html() ) {
       
         // pop open if on a single post
-        infowindow.setContent($marker.html());
-        infowindow.open( map, marker );
+        //infowindow.setContent($marker.html());
+        //infowindow.open( map, marker );
 
 
         setTimeout(function(){
@@ -151,7 +151,7 @@ function add_marker( $marker, map, index ) {
 
 
         // show info window when marker is clicked
-        google.maps.event.addListener(marker, 'click', function() {
+        google.maps.event.addListener(marker, 'mouseover', function() {
             infowindow.setContent($marker.html());
             infowindow.open( map, marker );
             cp_remove_gmaps_box_style();

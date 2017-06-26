@@ -7,8 +7,13 @@
 		padding-top: 60vh;
 
 	}
-
-	.page-footer a {
+	
+	.row a {
 		pointer-events: all;
+		color: $black;
+
+		&:hover {
+			color: $gray-light;
+		}
 	}
 }
